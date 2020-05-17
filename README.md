@@ -13,9 +13,10 @@ Robofriends is a simple web app, but I learned a lot from it:
 
 &nbsp;&nbsp;&nbsp;:wrench: APIs, node_modules, file structuring, package.json
 
-#### Check it out!
+#### Check it out! :point_right: 
 
 [Zero to Mastery]: https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery
 [JSONPlaceholder]: https://jsonplaceholder.typicode.com/
 [Robohash]: https://robohash.org/
+[View Robofriends]: https://unizef.github.io/robofriends/
 
