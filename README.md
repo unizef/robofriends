@@ -11,7 +11,7 @@ Robofriends is a simple web app, but I learned a lot from it:
 
 &nbsp;&nbsp;&nbsp;:nail_care: Tachyons (CSS toolkit)
 
-&nbsp;&nbsp;&nbsp;:wrench: APIs, node_modules, file structuring, package.json
+&nbsp;&nbsp;&nbsp;:wrench: JSONPlaceholder API
 
 #### Check it out :point_right: [Robofriends]
 
